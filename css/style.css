@@ -1,0 +1,9 @@
+.item-table {
+  border: 1px solid grey;
+  border-collapse: collapse;
+}
+.item-table td {
+  border: 1px solid grey;
+}
+
+/*# sourceMappingURL=style.css.map */
